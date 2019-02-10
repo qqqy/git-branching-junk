@@ -17,4 +17,8 @@ function youWish(wish){
   return cometrue(wish)
 }
 
+<<<<<<< HEAD
 // I HAVE DONE NON-BLUE THINGS HERE, BRO //
+=======
+// THIS IS BLUE //
+>>>>>>> master
