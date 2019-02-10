@@ -4,4 +4,6 @@ function sayHi(name){
 
 sayHi("David")
 
-// This is my super cool comment //
+// Let's pretend this is some code and stuff //
+
+// What is going on? //
