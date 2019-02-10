@@ -8,3 +8,5 @@ sayHi("David")
 function youWish(wish){
   return cometrue(wish)
 }
+
+// THIS IS BLUE //
