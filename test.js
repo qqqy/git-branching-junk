@@ -5,3 +5,6 @@ function sayHi(name){
 
 sayHi("David")
 
+function youWish(wish){
+  return cometrue(wish)
+}
