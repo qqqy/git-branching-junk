@@ -12,3 +12,7 @@ function isGoodWish(wish){
     return false
   }
 }
+
+function youWish(wish){
+  return cometrue(wish)
+}
