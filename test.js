@@ -16,3 +16,5 @@ function isGoodWish(wish){
 function youWish(wish){
   return cometrue(wish)
 }
+
+// I HAVE DONE NON-BLUE THINGS HERE, BRO //
