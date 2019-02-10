@@ -1,9 +1,7 @@
 function sayHi(name){
   alert(name)
+  return name
 }
 
 sayHi("David")
 
-// Let's pretend this is some code and stuff //
-
-// What is going on? //
